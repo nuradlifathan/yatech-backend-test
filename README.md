@@ -1,2 +1,2 @@
 # yatech-backend-test
- Yatech - Backend Developer Test
+ Yatech Backend Developer Test
